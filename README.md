@@ -1,5 +1,7 @@
 # ensure_file.py
 
+Warning: This is very alpha
+
 Minimal idempotent file editor in Python.
 
 Ensures lines or blocks are present or replaced in files, similar to `lineinfile`/`blockinfile` in Ansible, but with without the need to install a massive framework.
@@ -90,4 +92,4 @@ Ensures lines or blocks are present or replaced in files, similar to `lineinfile
 
 ## Tips
 
-- Add newlines inside markers or block lines 
+- Add newlines inside markers or block lines
